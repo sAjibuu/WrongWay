@@ -77,7 +77,7 @@ class Wrongway:
         try:
 
             if self.request_file == 'not_set':
-                alerts.error(f"-r, --request_file is a required argument!")
+                alerts.error(f"-f, --file is a required argument!")
 
             if not self.verify_tls:
                 # Disable SSL verification 
