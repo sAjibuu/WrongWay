@@ -29,7 +29,7 @@ For example GET /invite?url=https://evil-domain.com
 ## Disclaimer
 
 **Please note that the use of Wrongway and any actions taken with it are solely at your own risk.
-The tool is provided for educational and testing purposes only. The developer of Upload Bypass is not responsible for any misuse, damage, or illegal activities caused by its usage.**
+The tool is provided for educational and testing purposes only. The developer of Wrongway is not responsible for any misuse, damage, or illegal activities caused by its usage.**
 
 ## ***Attention***
 
